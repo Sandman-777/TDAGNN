@@ -1,0 +1,334 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Python 3.9" />
+      <type value="Python SDK" />
+      <version value="Python 3.10.2" />
+      <homePath value="D:\python\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://D:/python/DLLs" type="simple" />
+            <root url="file://D:/python/Lib" type="simple" />
+            <root url="file://D:/python" type="simple" />
+            <root url="file://D:/python/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/JetBrains/PyCharmCE2020.2/python_stubs/-287100998" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3.7" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.8 (GNNTest)" />
+      <type value="Python SDK" />
+      <version value="Python 3.8.13" />
+      <homePath value="D:\Anaconda\envs\GNNTest\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://D:/Anaconda/envs/GNNTest/DLLs" type="simple" />
+            <root url="file://D:/Anaconda/envs/GNNTest/Lib" type="simple" />
+            <root url="file://D:/Anaconda/envs/GNNTest/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/JetBrains/PyCharmCE2020.2/python_stubs/-1953972076" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3.7" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="D:/PythonWangyingqi/GNNTest" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.8 (cypytorch)" />
+      <type value="Python SDK" />
+      <version value="Python 3.8.13" />
+      <homePath value="D:\Anaconda\envs\cypytorch\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://D:/Anaconda/envs/cypytorch/DLLs" type="simple" />
+            <root url="file://D:/Anaconda/envs/cypytorch/Lib" type="simple" />
+            <root url="file://D:/Anaconda/envs/cypytorch/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/JetBrains/PyCharmCE2020.2/python_stubs/-375423568" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3.7" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.8 (pythonProject)" />
+      <type value="Python SDK" />
+      <version value="Python 3.8.13" />
+      <homePath value="D:\Anaconda\envs\pythonProject\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://D:/Anaconda/envs/pythonProject/DLLs" type="simple" />
+            <root url="file://D:/Anaconda/envs/pythonProject/Lib" type="simple" />
+            <root url="file://D:/Anaconda/envs/pythonProject/Lib/site-packages" type="simple" />
+            <root url="file://D:/Anaconda/envs/pythonProject/Lib/site-packages/win32" type="simple" />
+            <root url="file://D:/Anaconda/envs/pythonProject/Lib/site-packages/win32/lib" type="simple" />
+            <root url="file://D:/Anaconda/envs/pythonProject/Lib/site-packages/pythonwin" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/JetBrains/PyCharmCE2020.2/python_stubs/412994160" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3.7" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="D:/PythonWangyingqi/pythonProject" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.9 (liu)" />
+      <type value="Python SDK" />
+      <version value="Python 3.10.8" />
+      <homePath value="D:\Anaconda\envs\liu\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://D:/Anaconda/envs/liu/DLLs" type="simple" />
+            <root url="file://D:/Anaconda/envs/liu/Lib" type="simple" />
+            <root url="file://D:/Anaconda/envs/liu/Lib/site-packages" type="simple" />
+            <root url="file://D:/Anaconda/envs/liu/Lib/site-packages/win32" type="simple" />
+            <root url="file://D:/Anaconda/envs/liu/Lib/site-packages/win32/lib" type="simple" />
+            <root url="file://D:/Anaconda/envs/liu/Lib/site-packages/pythonwin" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/JetBrains/PyCharmCE2020.2/python_stubs/-1114987243" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3.7" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.9 (cypytorch2)" />
+      <type value="Python SDK" />
+      <version value="Python 3.10.6" />
+      <homePath value="D:\Anaconda\envs\cypytorch2\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://D:/Anaconda/envs/cypytorch2/DLLs" type="simple" />
+            <root url="file://D:/Anaconda/envs/cypytorch2/Lib" type="simple" />
+            <root url="file://D:/Anaconda/envs/cypytorch2/Lib/site-packages" type="simple" />
+            <root url="file://D:/Anaconda/envs/cypytorch2/Lib/site-packages/win32" type="simple" />
+            <root url="file://D:/Anaconda/envs/cypytorch2/Lib/site-packages/win32/lib" type="simple" />
+            <root url="file://D:/Anaconda/envs/cypytorch2/Lib/site-packages/pythonwin" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/JetBrains/PyCharmCE2020.2/python_stubs/1400432092" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3.7" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="D:/ASTGCN/ASTGCN-r-pytorch-master" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.9 (BeifenWithpyg)" />
+      <type value="Python SDK" />
+      <version value="Python 3.10.6" />
+      <homePath value="D:\Anaconda\envs\BeifenWithpyg\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://D:/Anaconda/envs/BeifenWithpyg/DLLs" type="simple" />
+            <root url="file://D:/Anaconda/envs/BeifenWithpyg/Lib" type="simple" />
+            <root url="file://D:/Anaconda/envs/BeifenWithpyg/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/JetBrains/PyCharmCE2020.2/python_stubs/622758526" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3.7" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.8 (SBZF)" />
+      <type value="Python SDK" />
+      <version value="Python 3.8.16" />
+      <homePath value="D:\Anaconda\envs\SBZF\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://D:/Anaconda/envs/SBZF/DLLs" type="simple" />
+            <root url="file://D:/Anaconda/envs/SBZF/Lib" type="simple" />
+            <root url="file://D:/Anaconda/envs/SBZF/Lib/site-packages" type="simple" />
+            <root url="file://D:/Anaconda/envs/SBZF/Lib/site-packages/win32" type="simple" />
+            <root url="file://D:/Anaconda/envs/SBZF/Lib/site-packages/win32/lib" type="simple" />
+            <root url="file://D:/Anaconda/envs/SBZF/Lib/site-packages/pythonwin" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/JetBrains/PyCharmCE2020.2/python_stubs/1070255958" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3.7" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.9 (cypytorch2) (2)" />
+      <type value="Python SDK" />
+      <version value="Python 3.10.6" />
+      <homePath value="D:\Anaconda\envs\cypytorch2\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://D:/Anaconda/envs/cypytorch2/DLLs" type="simple" />
+            <root url="file://D:/Anaconda/envs/cypytorch2/Lib" type="simple" />
+            <root url="file://D:/Anaconda/envs/cypytorch2/Lib/site-packages" type="simple" />
+            <root url="file://D:/Anaconda/envs/cypytorch2/Lib/site-packages/win32" type="simple" />
+            <root url="file://D:/Anaconda/envs/cypytorch2/Lib/site-packages/win32/lib" type="simple" />
+            <root url="file://D:/Anaconda/envs/cypytorch2/Lib/site-packages/pythonwin" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/JetBrains/PyCharmCE2020.2/python_stubs/1400432092" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3.7" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.9 (ZZY)" />
+      <type value="Python SDK" />
+      <version value="Python 3.10.6" />
+      <homePath value="D:\Anaconda\envs\ZZY\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://D:/Anaconda/envs/ZZY/DLLs" type="simple" />
+            <root url="file://D:/Anaconda/envs/ZZY/Lib" type="simple" />
+            <root url="file://D:/Anaconda/envs/ZZY/Lib/site-packages" type="simple" />
+            <root url="file://D:/Anaconda/envs/ZZY/Lib/site-packages/win32" type="simple" />
+            <root url="file://D:/Anaconda/envs/ZZY/Lib/site-packages/win32/lib" type="simple" />
+            <root url="file://D:/Anaconda/envs/ZZY/Lib/site-packages/pythonwin" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/JetBrains/PyCharmCE2020.2/python_stubs/181862388" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3.7" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="D:/GNN暑期班/2班-时间序列预测(1)/ZZY" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6 (dcrnn)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.13" />
+      <homePath value="D:\Anaconda\envs\dcrnn\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://D:/Anaconda/envs/dcrnn/DLLs" type="simple" />
+            <root url="file://D:/Anaconda/envs/dcrnn/Lib" type="simple" />
+            <root url="file://D:/Anaconda/envs/dcrnn/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/JetBrains/PyCharmCE2020.2/python_stubs/-1852382086" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.8 (yaxin)" />
+      <type value="Python SDK" />
+      <version value="Python 3.8.19" />
+      <homePath value="D:\Anaconda\envs\yaxin\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://D:/Anaconda/envs/yaxin/DLLs" type="simple" />
+            <root url="file://D:/Anaconda/envs/yaxin/Lib" type="simple" />
+            <root url="file://D:/Anaconda/envs/yaxin/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/JetBrains/PyCharmCE2020.2/python_stubs/24829048" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3.7" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="D:/YaXin" />
+    </jdk>
+  </component>
+</application>
