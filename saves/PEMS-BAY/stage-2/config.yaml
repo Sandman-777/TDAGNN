@@ -1,0 +1,36 @@
+data:
+  batch-size: 64
+  dataset: PEMS-BAY
+  input_dim: 2
+  output_dim: 1
+device: 0
+early_stop_steps: 40
+epochs: 100
+fixed_model: saves/PEMS-BAY/stage-1
+frozen_predictor: false
+learning_rate: 0.001
+loss:
+  name: MaskedMAELoss
+model:
+  graph_learner:
+    dropout: 0.5
+    learn_macro: true
+    learn_micro: true
+    n_hist: 12
+    n_in: 2
+    node_dim: 6
+  predictor:
+    dropout: 0.3
+    kernel_size: 2
+    n_blocks: 4
+    n_dilations: 36
+    n_ends: 576
+    n_in: 2
+    n_layers: 2
+    n_out: 1
+    n_pred: 12
+    n_residuals: 36
+    n_skips: 288
+name: stage-2
+saved_path: saves/PEMS-BAY
+weight_decay: 0.0001

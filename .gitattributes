@@ -1,0 +1,16 @@
+data filter=lfs diff=lfs merge=lfs -text
+models filter=lfs diff=lfs merge=lfs -text
+saves filter=lfs diff=lfs merge=lfs -text
+correlation_matrix.txt filter=lfs diff=lfs merge=lfs -text
+imf_data.json filter=lfs diff=lfs merge=lfs -text
+loadData.ipynb filter=lfs diff=lfs merge=lfs -text
+scripts filter=lfs diff=lfs merge=lfs -text
+train_stage1.py filter=lfs diff=lfs merge=lfs -text
+train_stage2.py filter=lfs diff=lfs merge=lfs -text
+generate_imf_data.py filter=lfs diff=lfs merge=lfs -text
+networks filter=lfs diff=lfs merge=lfs -text
+requirements.txt filter=lfs diff=lfs merge=lfs -text
+README.md filter=lfs diff=lfs merge=lfs -text
+config filter=lfs diff=lfs merge=lfs -text
+generate_imf_adj.py filter=lfs diff=lfs merge=lfs -text
+utils filter=lfs diff=lfs merge=lfs -text
