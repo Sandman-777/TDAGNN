@@ -16,17 +16,6 @@
     <list default="true" id="202d7d6d-edfb-468b-9e44-590c4169dbdc" name="默认的" comment="删除了大文件2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/correlation_matrix.txt" beforeDir="false" afterPath="$PROJECT_DIR$/correlation_matrix.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/METR-LA/metr-la.h5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/PEMS-BAY/pems-bay.h5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/generate_imf_adj.py" beforeDir="false" afterPath="$PROJECT_DIR$/generate_imf_adj.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generate_imf_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/generate_imf_data.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/imf_data.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/loadData.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/loadData.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/saves/correlation_matrix.txt" beforeDir="false" afterPath="$PROJECT_DIR$/saves/correlation_matrix.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/train_stage1.py" beforeDir="false" afterPath="$PROJECT_DIR$/train_stage1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/train_stage2.py" beforeDir="false" afterPath="$PROJECT_DIR$/train_stage2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,18 +32,6 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory">{
-  &quot;lastFilter&quot;: {
-    &quot;state&quot;: &quot;OPEN&quot;,
-    &quot;assignee&quot;: &quot;Sandman-777&quot;
-  }
-}</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Sandman-777/TDAGNN.git",
-    "accountId": "3e852c21-1c75-4878-8727-b15504e770d0"
-  }
-}]]></component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/networks/graph_learner.py" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/scripts/generate_training_data.py" root0="FORCE_HIGHLIGHTING" />
@@ -65,9 +42,6 @@
     <setting file="file://$PROJECT_DIR$/config/metr-la-stage1-config.yaml" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/train_stage2.py" root0="FORCE_HIGHLIGHTING" />
   </component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 7
-}</component>
   <component name="ProjectId" id="2VENfdBYk0j5OyhIltNa69fCc6i" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="新增" />
@@ -76,24 +50,9 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/TDAGNN/TDAGNN&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
-  }
-}</component>
   <component name="RunManager" selected="Python.SHAPE1">
     <configuration name="SHAPE1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Ada-STNet-master" />
-      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -116,7 +75,6 @@
     </configuration>
     <configuration name="generate_imf_adj" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Ada-STNet-master" />
-      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -139,7 +97,6 @@
     </configuration>
     <configuration name="generate_training_data" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Ada-STNet-master" />
-      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -162,7 +119,6 @@
     </configuration>
     <configuration name="predictor" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Ada-STNet-master" />
-      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -185,7 +141,6 @@
     </configuration>
     <configuration name="train_stage1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Ada-STNet-master" />
-      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -282,6 +237,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
